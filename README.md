@@ -12,7 +12,7 @@ Novel Application Build With FLutter
 ![dashboard-favorite](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/dashboard-favorite.jpg | width=100)
 ![dashboard-notif](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/dashboard-notif.jpg | width=100)
 ![dashboard-profile](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/dashboard-profile.jpg | width=100)
-
+<img src="https://github.com/favicon.ico" width="48">
 ## Description
 Project ini dikerjakan untuk memenuhi UTS mobile programming 2 
 - Splash Screen (done)
