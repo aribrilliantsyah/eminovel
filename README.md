@@ -3,15 +3,15 @@
 Novel Application Build With FLutter
 
 ## Screenshots
-![splashscreen](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/splashscreen.jpg)
-![login](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/login.jpg)
-![login-validation](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/login-validation.jpg)
-![login-not-found](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/login-not-found.jpg)
-![login-not-match](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/login-not-match.jpg)
-![dashboard-home](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/dashboard-home.jpg)
-![dashboard-favorite](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/dashboard-favorite.jpg)
-![dashboard-notif](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/dashboard-notif.jpg)
-![dashboard-profile](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/dashboard-profile.jpg)
+![splashscreen](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/splashscreen.jpg | width=100)
+![login](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/login.jpg | width=100)
+![login-validation](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/login-validation.jpg | width=100)
+![login-not-found](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/login-not-found.jpg | width=100)
+![login-not-match](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/login-not-match.jpg | width=100)
+![dashboard-home](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/dashboard-home.jpg | width=100)
+![dashboard-favorite](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/dashboard-favorite.jpg | width=100)
+![dashboard-notif](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/dashboard-notif.jpg | width=100)
+![dashboard-profile](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/dashboard-profile.jpg | width=100)
 
 ## Description
 Project ini dikerjakan untuk memenuhi UTS mobile programming 2 
