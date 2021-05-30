@@ -2,6 +2,23 @@
 
 Novel Application Build With FLutter
 
+## Screenshots
+
+
+## Description
+Project untuk tugas UTS - MProg2 dengan ketentuan 
+- Splash Screen (done)
+- Login (done)
+  - username: ari123
+  - password: rahasia
+- Dashboard (after login)
+  - Login (done)
+  - Home (done)
+    - List json from web-sraping ([novel-scrapper](https://github.com/aribrilliantsyah/novel-scrapper))
+  - Favorite (on progress)
+  - Notif (on progress)
+  - Profile (10%)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -16,19 +33,3 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-## Screenshots
-
-
-## Description
-Project untuk tugas UTS - MProg2 dengan ketentuan 
-- Splash Screen
-- Login (statis user)
-  - username: ari123
-  - password: rahasia
-- Dashboard (after login)
-  - Login (done)
-  - Home (done)
-    - List json from web-sraping [novel-scrapper](https://github.com/aribrilliantsyah/novel-scrapper)
-  - Favorite (on progress)
-  - Notif (on progress)
-  - Profile (10%)
