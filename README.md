@@ -14,8 +14,7 @@ Novel Application Build With Flutter
 <img src="https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/dashboard-profile.jpg" width="350px">
 
 ## Video
-
-![DEMO](https://s3.gifyu.com/images/outputcfffe6711f5d3d49.gif)
+<img src="https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/output.gif" width="350px">
 ## Description
 Project ini dikerjakan untuk memenuhi UTS mobile programming 2 
 
