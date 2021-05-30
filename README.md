@@ -3,7 +3,15 @@
 Novel Application Build With FLutter
 
 ## Screenshots
-![alt text](https://github.com/aribrilliantsyah/eminovel/blob/main/ss/splashscreen.png?raw=true)
+![splashscreen](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/splashscreen.jpg)
+![login](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/login.jpg)
+![login-validation](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/login-validation.jpg)
+![login-not-found](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/login-not-found.jpg)
+![login-not-match](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/login-not-match.jpg)
+![dashboard-home](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/dashboard-home.jpg)
+![dashboard-favorite](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/dashboard-favorite.jpg)
+![dashboard-notif](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/dashboard-notif.jpg)
+![dashboard-profile](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/dashboard-profile.jpg)
 
 ## Description
 Project ini dikerjakan untuk memenuhi UTS mobile programming 2 
