@@ -18,6 +18,8 @@ Novel Application Build With Flutter
 
 ## Description
 Project ini dikerjakan untuk memenuhi UTS mobile programming 2 
+
+Login sessions tersimpan dilocal, setelah melakukan login ketika masuk sudah otomatis ke home.
 - Splash Screen (done)
 - Login (done)
   - username: ari123
