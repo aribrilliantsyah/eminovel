@@ -13,6 +13,9 @@ Novel Application Build With Flutter
 <img src="https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/dashboard-notif.jpg" width="350px">
 <img src="https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/dashboard-profile.jpg" width="350px">
 
+## Video
+<img src="https://s3.gifyu.com/images/outputcfffe6711f5d3d49.gif" width="350px">
+
 ## Description
 Project ini dikerjakan untuk memenuhi UTS mobile programming 2 
 - Splash Screen (done)
