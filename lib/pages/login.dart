@@ -34,6 +34,9 @@ class _LoginState extends State<Login> {
     await storage.setItem('description', description);
     await storage.setItem('photo_url', photo_url);
     await storage.setItem('is_auth', photo_url);
+    Navigator.of(context).pushReplacement(MaterialPageRoute(builder: (_) {
+      return App();
+    }));
   }
   
   @override
@@ -90,9 +93,6 @@ class _LoginState extends State<Login> {
         );
 
         set_session('ari123', 'Ari Ardiansyah', 'Fullstack Developer', 'https://i.pinimg.com/originals/8e/d6/c4/8ed6c4bb590f88ed59c070d1d0af285e.png', true);
-        Navigator.of(context).pushReplacement(MaterialPageRoute(builder: (_) {
-          return App();
-        }));
       }else{
         Navigator.push(
           context,
