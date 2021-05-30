@@ -3,7 +3,7 @@
 Novel Application Build With FLutter
 
 ## Screenshots
-<img src="https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/splashscreen.jpg" width="350"">
+<img src="https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/splashscreen.jpg" width="350px">
 
 ![splashscreen](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/splashscreen.jpg) {:width="350px"}
 ![login](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/login.jpg) {:width="350px"}
