@@ -6,7 +6,7 @@ Novel Application Build With FLutter
 
 
 ## Description
-Project untuk tugas UTS - MProg2 dengan ketentuan 
+Project ini dikerjakan untuk memenuhi UTS mobile programming 2 
 - Splash Screen (done)
 - Login (done)
   - username: ari123
