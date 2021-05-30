@@ -1,6 +1,6 @@
-# eminovel
+# Eminovel
 
-A new Flutter project.
+Novel Application Build With FLutter
 
 ## Getting Started
 
@@ -14,3 +14,21 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+## Screenshots
+
+
+## Description
+Project untuk tugas UTS - MProg2 dengan ketentuan 
+- Splash Screen
+- Login (statis user)
+  - username: ari123
+  - password: rahasia
+- Dashboard (after login)
+  - Login (done)
+  - Home (done)
+    - List json from web-sraping [novel-scrapper](https://github.com/aribrilliantsyah/novel-scrapper)
+  - Favorite (on progress)
+  - Notif (on progress)
+  - Profile (10%)
