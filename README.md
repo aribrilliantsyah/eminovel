@@ -4,16 +4,14 @@ Novel Application Build With FLutter
 
 ## Screenshots
 <img src="https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/splashscreen.jpg" width="350px">
-
-![splashscreen](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/splashscreen.jpg) {:width="350px"}
-![login](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/login.jpg) {:width="350px"}
-![login-validation](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/login-validation.jpg) {:width="350px"}
-![login-not-found](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/login-not-found.jpg) {:width="350px"}
-![login-not-match](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/login-not-match.jpg) {:width="350px"}
-![dashboard-home](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/dashboard-home.jpg) {:width="350px"}
-![dashboard-favorite](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/dashboard-favorite.jpg) {:width="350px"}
-![dashboard-notif](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/dashboard-notif.jpg) {:width="350px"}
-![dashboard-profile](https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/dashboard-profile.jpg) {:width="350px"}
+<img src="https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/login.jpg" width="350px">
+<img src="https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/login-validation.jpg" width="350px">
+<img src="https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/login-not-found.jpg" width="350px">
+<img src="https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/login-not-match.jpg" width="350px">
+<img src="https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/dashboard-home.jpg" width="350px">
+<img src="https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/dashboard-favorite.jpg" width="350px">
+<img src="https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/dashboard-notif.jpg" width="350px">
+<img src="https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/dashboard-profile.jpg" width="350px">
 
 ## Description
 Project ini dikerjakan untuk memenuhi UTS mobile programming 2 
