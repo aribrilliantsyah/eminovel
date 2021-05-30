@@ -3,7 +3,7 @@
 Novel Application Build With FLutter
 
 ## Screenshots
-
+![alt text](https://github.com/[aribrilliantsyah/eminovel/blob/main/ss/splashscreen?raw=true)
 
 ## Description
 Project ini dikerjakan untuk memenuhi UTS mobile programming 2 
