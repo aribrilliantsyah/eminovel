@@ -1,6 +1,6 @@
 # Eminovel
 
-Novel Application Build With FLutter
+Novel Application Build With Flutter
 
 ## Screenshots
 <img src="https://raw.githubusercontent.com/aribrilliantsyah/eminovel/main/ss/splashscreen.jpg" width="350px">
